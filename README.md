@@ -4,5 +4,7 @@
 #### [01b. More about Python Types](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes01b)
 #### [02. Math Operations and Expressions](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes02)
 #### [03. Strings and String Manipulations](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes03)
+#### [04. String Formatting](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes04)
+#### [05. List and Tuple Manipulations](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes05)
 #### [55. Data visualization with Python](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes55)
 #### [57. Introduction to data science. Data manipulations with Python modules](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes57)
