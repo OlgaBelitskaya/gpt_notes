@@ -14,3 +14,4 @@
 #### [39. Decorators](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes39)
 #### [55. Data visualization with Python](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes55)
 #### [57. Introduction to data science. Data manipulations with Python modules](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes57)
+#### [57b. Introduction to data science. Data manipulations with Python modules](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes57b)
