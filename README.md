@@ -7,6 +7,7 @@
 #### [03. Strings and String Manipulations](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes03)
 #### [04. String Formatting](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes04)
 #### [05. List and Tuple Manipulations](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes05)
+#### [07. Control flow statements & patterns](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes07)
 #### [09. Functions and Their Parameters](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes09)
 #### [14. Dictionaries and sets: manipulations, methods, comprehensions](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes14)
 #### [17. Object-Oriented Programming](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes17)
