@@ -12,6 +12,7 @@
 #### [14. Dictionaries and sets: manipulations, methods, comprehensions](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes14)
 #### [17. Object-Oriented Programming](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes17)
 #### [21. File handling: reading and writing files](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes21)
+#### [33. Recursive, update and anonymous calls](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes33)
 #### [37. Generators and Iterators](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes37)
 #### [39. Decorators](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes39)
 #### [55. Data visualization with Python](https://www.kaggle.com/code/olgabelitskaya/gptpythonnotes55)
